@@ -1,0 +1,73 @@
+# AI Construction Site Safety Intelligence Platform
+
+## NVIDIA AI & High-Performance Computing Summer Internship 2026
+
+### Project Overview
+
+The AI Construction Site Safety Intelligence Platform is a computer vision-based system developed to improve safety monitoring at construction sites. The platform uses YOLOv8 object detection to identify workers, helmets, and safety vests from images and videos, helping detect safety compliance and violations in real time.
+
+### Objectives
+
+* Detect construction workers in images and videos.
+* Monitor Personal Protective Equipment (PPE) compliance.
+* Identify safety violations automatically.
+* Generate safety analytics and compliance metrics.
+* Provide visual insights through an interactive dashboard.
+
+### Technologies Used
+
+* Python
+* YOLOv8
+* OpenCV
+* Streamlit
+* Pandas
+* NumPy
+* Matplotlib
+* NVIDIA GPU Acceleration
+
+### Project Features
+
+* Real-time PPE Detection
+* Helmet Detection
+* Safety Vest Detection
+* Worker Counting
+* Compliance Percentage Calculation
+* Violation Detection
+* Dashboard Visualization
+* Report Generation
+
+### Project Structure
+
+```text
+src/            - Source code
+models/         - Trained YOLO models
+dataset/        - Dataset or dataset links
+outputs/        - Detection outputs
+screenshots/    - Project screenshots
+ppt/            - Presentation files
+report/         - Project report
+```
+
+### Results
+
+* Successfully detected workers and PPE using YOLOv8.
+* Identified safety violations automatically.
+* Generated compliance metrics and reports.
+* Visualized safety trends through dashboards.
+
+### Future Enhancements
+
+* Risk Level Prediction
+* Real-Time CCTV Monitoring
+* Alert and Notification System
+* Multi-Camera Integration
+* Predictive Safety Analytics
+
+### Author
+
+Bumika
+
+### Internship
+
+NVIDIA AI & High-Performance Computing Summer Internship 2026
+Presidency University
